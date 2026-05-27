@@ -1850,19 +1850,7 @@ def fetch_newsnow(session: requests.Session, now: datetime) -> list[RawItem]:
 
 def collect_all(session: requests.Session, now: datetime) -> tuple[list[RawItem], list[dict[str, Any]]]:
     tasks = [
-        ("official_ai", "Official AI Updates", fetch_official_ai_updates),
-        ("aibreakfast", "AI Breakfast", fetch_ai_breakfast),
-        ("followbuilders", "Follow Builders", fetch_follow_builders),
-        ("techurls", "TechURLs", fetch_techurls),
-        ("buzzing", "Buzzing", fetch_buzzing),
-        ("iris", "Info Flow", fetch_iris),
-        ("bestblogs", "BestBlogs", fetch_bestblogs),
-        ("tophub", "TopHub", fetch_tophub),
-        ("zeli", "Zeli", fetch_zeli),
-        ("aihubtoday", "AI HubToday", fetch_ai_hubtoday),
-        ("aibase", "AIbase", fetch_aibase),
-        ("aihot", "AI HOT", fetch_aihot),
-        ("newsnow", "NewsNow", fetch_newsnow),
+        # All built-in sources removed — only Chinese OPML + WaytoAGI
     ]
 
     raw_items: list[RawItem] = []
