@@ -5,16 +5,97 @@
   </head>
   <body>
     <outline text="中文 AI 信源">
-      <outline text="机器之心" type="rss"
-        xmlUrl="https://www.jiqizhixin.com/rss" />
-      <outline text="量子位" type="rss"
-        xmlUrl="https://www.qbitai.com/feed" />
-      <outline text="36氪 - AI" type="rss"
-        xmlUrl="https://36kr.com/feed" />
-      <outline text="InfoQ CN" type="rss"
-        xmlUrl="https://www.infoq.cn/feed" />
-      <outline text="宝玉" type="rss"
-        xmlUrl="https://baoyu.io/feed.xml" />
+      <outline
+        text="机器之心"
+        title="机器之心"
+        type="rss"
+        xmlUrl="https://rsshub.app/jiqizhixin"
+        htmlUrl="https://www.jiqizhixin.com/"
+      />
+      <outline
+        text="量子位"
+        title="量子位"
+        type="rss"
+        xmlUrl="https://rsshub.app/qbitai/category/资讯"
+        htmlUrl="https://www.qbitai.com/"
+      />
+      <outline
+        text="36氪 - AI"
+        title="36氪 - AI"
+        type="rss"
+        xmlUrl="https://36kr.com/feed"
+        htmlUrl="https://36kr.com/information/AI/"
+      />
+      <outline
+        text="新智元"
+        title="新智元"
+        type="rss"
+        xmlUrl="https://rsshub.app/neusix"
+        htmlUrl="https://www.sohu.com/a/neusix"
+      />
+      <outline
+        text="爱范儿"
+        title="爱范儿"
+        type="rss"
+        xmlUrl="https://www.ifanr.com/feed"
+        htmlUrl="https://www.ifanr.com/"
+      />
+      <outline
+        text="少数派"
+        title="少数派"
+        type="rss"
+        xmlUrl="https://sspai.com/feed"
+        htmlUrl="https://sspai.com/"
+      />
+      <outline
+        text="阮一峰的网络日志"
+        title="阮一峰的网络日志"
+        type="rss"
+        xmlUrl="https://feeds.feedburner.com/ruanyifeng"
+        htmlUrl="https://www.ruanyifeng.com/blog/"
+      />
+      <outline
+        text="ReadHub"
+        title="ReadHub"
+        type="rss"
+        xmlUrl="https://readhub.cn/rss"
+        htmlUrl="https://readhub.cn/"
+      />
+      <outline
+        text="Linux Do"
+        title="Linux Do"
+        type="rss"
+        xmlUrl="https://rsshub.app/linuxdo"
+        htmlUrl="https://linux.do/"
+      />
+      <outline
+        text="歸藏"
+        title="歸藏"
+        type="rss"
+        xmlUrl="https://rsshub.app/guizang"
+        htmlUrl="https://guizang.ai/"
+      />
+      <outline
+        text="DailyDawn"
+        title="DailyDawn"
+        type="rss"
+        xmlUrl="https://dailydawn.dev/feed.xml"
+        htmlUrl="https://dailydawn.dev/"
+      />
+      <outline
+        text="InfoQ CN"
+        title="InfoQ CN"
+        type="rss"
+        xmlUrl="https://www.infoq.cn/feed"
+        htmlUrl="https://www.infoq.cn/"
+      />
+      <outline
+        text="宝玉"
+        title="宝玉"
+        type="rss"
+        xmlUrl="https://baoyu.io/feed.xml"
+        htmlUrl="https://baoyu.io/"
+      />
     </outline>
   </body>
 </opml>
