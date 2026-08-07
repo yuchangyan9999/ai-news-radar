@@ -1,24 +1,47 @@
 {
-  "generated_at": "2026-08-07T13:08:06.194735Z",
+  "generated_at": "2026-08-07T14:32:12.451701Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 19,
-  "total_items_raw": 160,
-  "total_items_all_mode": 160,
+  "total_items": 20,
+  "total_items_ai_raw": 20,
+  "total_items_raw": 155,
+  "total_items_all_mode": 155,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4227,
+  "archive_total": 4230,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 19,
-      "raw_count": 160
+      "count": 20,
+      "raw_count": 155
     }
   ],
   "items": [
+    {
+      "id": "073294fa45a9e70a58999e81788946e579dac013",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "url": "https://readhub.cn/topic/8vOuYiaROhm",
+      "published_at": "2026-08-07T13:10:28Z",
+      "first_seen_at": "2026-08-07T14:32:12.451701Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "title_en": null,
+      "title_zh": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "title_bilingual": "多家基金管理人上报创业板算力、创业板金融科技 ETF"
+    },
     {
       "id": "972818535202a8b102b9d906574edf743c20b2ac",
       "site_id": "opmlrss",
@@ -205,7 +228,7 @@
       "url": "https://www.ifanr.com/1674363",
       "published_at": "2026-08-07T04:00:19Z",
       "first_seen_at": "2026-08-07T05:17:26.059408Z",
-      "last_seen_at": "2026-08-07T13:08:06.194735Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -366,7 +389,7 @@
       "url": "https://www.ifanr.com/1674259",
       "published_at": "2026-08-07T00:15:50Z",
       "first_seen_at": "2026-08-07T00:24:47.761047Z",
-      "last_seen_at": "2026-08-07T13:08:06.194735Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "model_release",
@@ -452,6 +475,29 @@
   ],
   "items_ai": [
     {
+      "id": "073294fa45a9e70a58999e81788946e579dac013",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "url": "https://readhub.cn/topic/8vOuYiaROhm",
+      "published_at": "2026-08-07T13:10:28Z",
+      "first_seen_at": "2026-08-07T14:32:12.451701Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "title_en": null,
+      "title_zh": "多家基金管理人上报创业板算力、创业板金融科技 ETF",
+      "title_bilingual": "多家基金管理人上报创业板算力、创业板金融科技 ETF"
+    },
+    {
       "id": "972818535202a8b102b9d906574edf743c20b2ac",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -637,7 +683,7 @@
       "url": "https://www.ifanr.com/1674363",
       "published_at": "2026-08-07T04:00:19Z",
       "first_seen_at": "2026-08-07T05:17:26.059408Z",
-      "last_seen_at": "2026-08-07T13:08:06.194735Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -798,7 +844,7 @@
       "url": "https://www.ifanr.com/1674259",
       "published_at": "2026-08-07T00:15:50Z",
       "first_seen_at": "2026-08-07T00:24:47.761047Z",
-      "last_seen_at": "2026-08-07T13:08:06.194735Z",
+      "last_seen_at": "2026-08-07T14:32:12.451701Z",
       "ai_is_related": true,
       "ai_score": 0.75,
       "ai_label": "model_release",
