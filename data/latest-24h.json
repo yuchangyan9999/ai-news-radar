@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-08T09:39:46.875584Z",
+  "generated_at": "2026-08-08T10:36:00.692168Z",
   "window_hours": 24,
   "total_items": 11,
   "total_items_ai_raw": 11,
-  "total_items_raw": 77,
-  "total_items_all_mode": 77,
+  "total_items_raw": 74,
+  "total_items_all_mode": 74,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4167,
+  "archive_total": 4166,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
@@ -15,7 +15,7 @@
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 11,
-      "raw_count": 77
+      "raw_count": 74
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T09:39:46.875584Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
+      "last_seen_at": "2026-08-08T10:36:00.692168Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -49,7 +49,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
+      "last_seen_at": "2026-08-08T10:36:00.692168Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -276,7 +276,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T09:39:46.875584Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
+      "last_seen_at": "2026-08-08T10:36:00.692168Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -297,7 +297,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
+      "last_seen_at": "2026-08-08T10:36:00.692168Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
