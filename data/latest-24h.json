@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-08T20:32:10.814207Z",
+  "generated_at": "2026-08-08T21:32:13.606852Z",
   "window_hours": 24,
-  "total_items": 6,
-  "total_items_ai_raw": 6,
+  "total_items": 5,
+  "total_items_ai_raw": 5,
   "total_items_raw": 39,
   "total_items_all_mode": 39,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4161,
+  "archive_total": 4160,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 6,
+      "count": 5,
       "raw_count": 39
     }
   ],
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -51,7 +51,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T13:47:26.446476Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -93,7 +93,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -129,29 +129,6 @@
       "title_en": null,
       "title_zh": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
       "title_bilingual": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售"
-    },
-    {
-      "id": "b7dcdf5481f76e38a19eec93f606e8b7fd2fc91e",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "url": "https://readhub.cn/topic/8vPIqS5YSYg",
-      "published_at": "2026-08-07T20:40:39Z",
-      "first_seen_at": "2026-08-07T21:11:17.151380Z",
-      "last_seen_at": "2026-08-08T07:52:22.941551Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "openai"
-      ],
-      "ai_noise": [],
-      "title_original": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "title_en": null,
-      "title_zh": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "title_bilingual": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程"
     }
   ],
   "items_ai": [
@@ -164,7 +141,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -187,7 +164,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T13:47:26.446476Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -229,7 +206,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T20:32:10.814207Z",
+      "last_seen_at": "2026-08-08T21:32:13.606852Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -265,29 +242,6 @@
       "title_en": null,
       "title_zh": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
       "title_bilingual": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售"
-    },
-    {
-      "id": "b7dcdf5481f76e38a19eec93f606e8b7fd2fc91e",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "url": "https://readhub.cn/topic/8vPIqS5YSYg",
-      "published_at": "2026-08-07T20:40:39Z",
-      "first_seen_at": "2026-08-07T21:11:17.151380Z",
-      "last_seen_at": "2026-08-08T07:52:22.941551Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "openai"
-      ],
-      "ai_noise": [],
-      "title_original": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "title_en": null,
-      "title_zh": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程",
-      "title_bilingual": "OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
