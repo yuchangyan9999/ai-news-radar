@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-08T21:32:13.606852Z",
+  "generated_at": "2026-08-08T22:31:13.551427Z",
   "window_hours": 24,
-  "total_items": 5,
-  "total_items_ai_raw": 5,
-  "total_items_raw": 39,
-  "total_items_all_mode": 39,
+  "total_items": 4,
+  "total_items_ai_raw": 4,
+  "total_items_raw": 37,
+  "total_items_all_mode": 37,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
   "archive_total": 4160,
@@ -14,8 +14,8 @@
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 5,
-      "raw_count": 39
+      "count": 4,
+      "raw_count": 37
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -51,7 +51,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T13:47:26.446476Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -93,7 +93,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -106,29 +106,6 @@
       "title_en": null,
       "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
       "title_bilingual": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型"
-    },
-    {
-      "id": "12a7c219d63559da78ce03527cc2d4a40661cefa",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "url": "https://readhub.cn/topic/8vOx3ZkdkZK",
-      "published_at": "2026-08-07T22:10:29Z",
-      "first_seen_at": "2026-08-07T23:06:33.414696Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "deepseek"
-      ],
-      "ai_noise": [],
-      "title_original": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "title_en": null,
-      "title_zh": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "title_bilingual": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售"
     }
   ],
   "items_ai": [
@@ -141,7 +118,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -164,7 +141,7 @@
       "url": "https://readhub.cn/topic/8vQ5njBbkgl",
       "published_at": "2026-08-08T09:10:31Z",
       "first_seen_at": "2026-08-08T13:47:26.446476Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -206,7 +183,7 @@
       "url": "https://www.ifanr.com/1674478",
       "published_at": "2026-08-08T00:52:06Z",
       "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T21:32:13.606852Z",
+      "last_seen_at": "2026-08-08T22:31:13.551427Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -219,29 +196,6 @@
       "title_en": null,
       "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
       "title_bilingual": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型"
-    },
-    {
-      "id": "12a7c219d63559da78ce03527cc2d4a40661cefa",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "url": "https://readhub.cn/topic/8vOx3ZkdkZK",
-      "published_at": "2026-08-07T22:10:29Z",
-      "first_seen_at": "2026-08-07T23:06:33.414696Z",
-      "last_seen_at": "2026-08-08T09:39:46.875584Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "deepseek"
-      ],
-      "ai_noise": [],
-      "title_original": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "title_en": null,
-      "title_zh": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售",
-      "title_bilingual": "王兴兴回应 DeepSeek 参与宇树科技 IPO 战略配售"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
