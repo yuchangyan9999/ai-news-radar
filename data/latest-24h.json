@@ -1,25 +1,46 @@
 {
-  "generated_at": "2026-08-08T23:31:08.687463Z",
+  "generated_at": "2026-08-09T01:53:28.302024Z",
   "window_hours": 24,
   "total_items": 4,
   "total_items_ai_raw": 4,
-  "total_items_raw": 35,
-  "total_items_all_mode": 35,
+  "total_items_raw": 36,
+  "total_items_all_mode": 36,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4159,
+  "archive_total": 4127,
   "site_count": 1,
-  "source_count": 2,
+  "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 4,
-      "raw_count": 35
+      "raw_count": 36
     }
   ],
   "items": [
     {
+      "id": "206b9b140c4f8b46eeb06ff185bcf0c8aacb02bd",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "url": "https://readhub.cn/topic/8vPv5ryEWoI",
+      "published_at": "2026-08-09T01:40:44Z",
+      "first_seen_at": "2026-08-09T01:53:28.302024Z",
+      "last_seen_at": "2026-08-09T01:53:28.302024Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "ai_product_update",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "title_original": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "title_en": null,
+      "title_zh": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "title_bilingual": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一"
+    },
+    {
       "id": "5e7a9924831f27c3d22152e1ca88222cc523f3e8",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -28,7 +49,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T23:31:08.687463Z",
+      "last_seen_at": "2026-08-09T01:53:28.302024Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -83,33 +104,31 @@
       "title_en": null,
       "title_zh": "微信内测朋友圈 AI 帮写与点评 腾讯客服回应：相关功能仍在逐步开放中",
       "title_bilingual": "微信内测朋友圈 AI 帮写与点评 腾讯客服回应：相关功能仍在逐步开放中"
-    },
-    {
-      "id": "726f0ce7a613c585ffac86b15ad57d03552cc69c",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "爱范儿",
-      "title": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "url": "https://www.ifanr.com/1674478",
-      "published_at": "2026-08-08T00:52:06Z",
-      "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T23:31:08.687463Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "title_original": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "title_en": null,
-      "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "title_bilingual": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型"
     }
   ],
   "items_ai": [
     {
+      "id": "206b9b140c4f8b46eeb06ff185bcf0c8aacb02bd",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "url": "https://readhub.cn/topic/8vPv5ryEWoI",
+      "published_at": "2026-08-09T01:40:44Z",
+      "first_seen_at": "2026-08-09T01:53:28.302024Z",
+      "last_seen_at": "2026-08-09T01:53:28.302024Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "ai_product_update",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "title_original": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "title_en": null,
+      "title_zh": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一",
+      "title_bilingual": "消息称 WorkBuddy 已成腾讯 AI 应用战略优先级最高产品之一"
+    },
+    {
       "id": "5e7a9924831f27c3d22152e1ca88222cc523f3e8",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -118,7 +137,7 @@
       "url": "https://readhub.cn/topic/8vPVMwJ5otU",
       "published_at": "2026-08-08T14:18:56Z",
       "first_seen_at": "2026-08-08T14:33:15.919290Z",
-      "last_seen_at": "2026-08-08T23:31:08.687463Z",
+      "last_seen_at": "2026-08-09T01:53:28.302024Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "industry_business",
@@ -173,29 +192,6 @@
       "title_en": null,
       "title_zh": "微信内测朋友圈 AI 帮写与点评 腾讯客服回应：相关功能仍在逐步开放中",
       "title_bilingual": "微信内测朋友圈 AI 帮写与点评 腾讯客服回应：相关功能仍在逐步开放中"
-    },
-    {
-      "id": "726f0ce7a613c585ffac86b15ad57d03552cc69c",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "爱范儿",
-      "title": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "url": "https://www.ifanr.com/1674478",
-      "published_at": "2026-08-08T00:52:06Z",
-      "first_seen_at": "2026-08-08T02:10:14.082050Z",
-      "last_seen_at": "2026-08-08T23:31:08.687463Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "title_original": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "title_en": null,
-      "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
-      "title_bilingual": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
