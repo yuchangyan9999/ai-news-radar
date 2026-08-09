@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T17:33:17.617765Z",
+  "generated_at": "2026-08-09T18:43:05.518474Z",
   "window_hours": 24,
   "total_items": 1,
   "total_items_ai_raw": 1,
-  "total_items_raw": 44,
-  "total_items_all_mode": 44,
+  "total_items_raw": 47,
+  "total_items_all_mode": 47,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4097,
+  "archive_total": 4100,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
@@ -15,7 +15,7 @@
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 1,
-      "raw_count": 44
+      "raw_count": 47
     }
   ],
   "items": [
