@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T04:03:16.650434Z",
+  "generated_at": "2026-08-10T05:55:44.657356Z",
   "window_hours": 24,
   "total_items": 4,
   "total_items_ai_raw": 4,
-  "total_items_raw": 65,
-  "total_items_all_mode": 65,
+  "total_items_raw": 82,
+  "total_items_all_mode": 82,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 4055,
+  "archive_total": 4034,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
@@ -15,7 +15,7 @@
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 4,
-      "raw_count": 65
+      "raw_count": 82
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://www.ifanr.com/1673846",
       "published_at": "2026-08-10T03:40:53Z",
       "first_seen_at": "2026-08-10T04:03:16.650434Z",
-      "last_seen_at": "2026-08-10T04:03:16.650434Z",
+      "last_seen_at": "2026-08-10T05:55:44.657356Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -94,7 +94,7 @@
       "url": "https://www.ifanr.com/1674507",
       "published_at": "2026-08-10T00:44:04Z",
       "first_seen_at": "2026-08-10T01:58:06.346910Z",
-      "last_seen_at": "2026-08-10T04:03:16.650434Z",
+      "last_seen_at": "2026-08-10T05:55:44.657356Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
@@ -117,7 +117,7 @@
       "url": "https://www.ifanr.com/1673846",
       "published_at": "2026-08-10T03:40:53Z",
       "first_seen_at": "2026-08-10T04:03:16.650434Z",
-      "last_seen_at": "2026-08-10T04:03:16.650434Z",
+      "last_seen_at": "2026-08-10T05:55:44.657356Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -183,7 +183,7 @@
       "url": "https://www.ifanr.com/1674507",
       "published_at": "2026-08-10T00:44:04Z",
       "first_seen_at": "2026-08-10T01:58:06.346910Z",
-      "last_seen_at": "2026-08-10T04:03:16.650434Z",
+      "last_seen_at": "2026-08-10T05:55:44.657356Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_product_update",
