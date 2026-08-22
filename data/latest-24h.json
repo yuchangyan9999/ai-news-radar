@@ -1,24 +1,47 @@
 {
-  "generated_at": "2026-08-22T11:21:44.982832Z",
+  "generated_at": "2026-08-22T11:46:14.448696Z",
   "window_hours": 24,
-  "total_items": 6,
-  "total_items_ai_raw": 6,
-  "total_items_raw": 108,
-  "total_items_all_mode": 108,
+  "total_items": 7,
+  "total_items_ai_raw": 7,
+  "total_items_raw": 104,
+  "total_items_all_mode": 104,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3052,
+  "archive_total": 3057,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 6,
-      "raw_count": 108
+      "count": 7,
+      "raw_count": 104
     }
   ],
   "items": [
+    {
+      "id": "78c65b0ba53bd8684244b7ef0a6f7aca8a0a5fba",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "url": "https://readhub.cn/topic/8vnpZfb89iP",
+      "published_at": "2026-08-22T11:40:56Z",
+      "first_seen_at": "2026-08-22T11:46:14.448696Z",
+      "last_seen_at": "2026-08-22T11:46:14.448696Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "title_en": null,
+      "title_zh": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "title_bilingual": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元"
+    },
     {
       "id": "ad7bd9ba102403b2f196bca49c1cf29d35903a07",
       "site_id": "opmlrss",
@@ -28,7 +51,7 @@
       "url": "https://readhub.cn/topic/8vnBt9FXRSu",
       "published_at": "2026-08-22T08:10:52Z",
       "first_seen_at": "2026-08-22T08:32:27.708055Z",
-      "last_seen_at": "2026-08-22T11:21:44.982832Z",
+      "last_seen_at": "2026-08-22T11:46:14.448696Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "infra_compute",
@@ -158,6 +181,29 @@
   ],
   "items_ai": [
     {
+      "id": "78c65b0ba53bd8684244b7ef0a6f7aca8a0a5fba",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "url": "https://readhub.cn/topic/8vnpZfb89iP",
+      "published_at": "2026-08-22T11:40:56Z",
+      "first_seen_at": "2026-08-22T11:46:14.448696Z",
+      "last_seen_at": "2026-08-22T11:46:14.448696Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "title_en": null,
+      "title_zh": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元",
+      "title_bilingual": "2026 绿色算力大会签约 13 个项目 总投资 1361 亿元"
+    },
+    {
       "id": "ad7bd9ba102403b2f196bca49c1cf29d35903a07",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -166,7 +212,7 @@
       "url": "https://readhub.cn/topic/8vnBt9FXRSu",
       "published_at": "2026-08-22T08:10:52Z",
       "first_seen_at": "2026-08-22T08:32:27.708055Z",
-      "last_seen_at": "2026-08-22T11:21:44.982832Z",
+      "last_seen_at": "2026-08-22T11:46:14.448696Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "infra_compute",
