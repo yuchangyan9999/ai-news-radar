@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-26T10:36:59.494731Z",
+  "generated_at": "2026-08-26T11:31:37.881184Z",
   "window_hours": 24,
-  "total_items": 40,
-  "total_items_ai_raw": 40,
-  "total_items_raw": 282,
-  "total_items_all_mode": 282,
+  "total_items": 38,
+  "total_items_ai_raw": 38,
+  "total_items_raw": 283,
+  "total_items_all_mode": 283,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3053,
+  "archive_total": 3056,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 40,
-      "raw_count": 282
+      "count": 38,
+      "raw_count": 283
     }
   ],
   "items": [
@@ -97,7 +97,7 @@
       "url": "https://www.ifanr.com/1676738",
       "published_at": "2026-08-26T09:46:32Z",
       "first_seen_at": "2026-08-26T10:36:59.494731Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -753,7 +753,7 @@
       "url": "https://www.ifanr.com/1676537",
       "published_at": "2026-08-25T13:10:31Z",
       "first_seen_at": "2026-08-25T14:19:51.179975Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "model_release",
@@ -820,7 +820,7 @@
       "url": "https://www.ifanr.com/1676629",
       "published_at": "2026-08-25T12:01:44Z",
       "first_seen_at": "2026-08-25T13:02:15.549869Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -877,52 +877,6 @@
       "title_en": null,
       "title_zh": "小米通报多起 AI 造谣案件进展 多名涉案人员被处理",
       "title_bilingual": "小米通报多起 AI 造谣案件进展 多名涉案人员被处理"
-    },
-    {
-      "id": "614e960f03fd094d46b866c794063556d6ee1a40",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "url": "https://readhub.cn/topic/8vslRC2AsUX",
-      "published_at": "2026-08-25T10:51:41Z",
-      "first_seen_at": "2026-08-25T11:29:25.513311Z",
-      "last_seen_at": "2026-08-25T11:29:25.513311Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "算力"
-      ],
-      "ai_noise": [],
-      "title_original": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "title_en": null,
-      "title_zh": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "title_bilingual": "艾可蓝：签订 11.09 亿元算力资源服务合同"
-    },
-    {
-      "id": "8fc9fb3c89aa9ee966d104d5f914ff78e64d3767",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "url": "https://readhub.cn/topic/8vsjz1Im9fg",
-      "published_at": "2026-08-25T10:51:41Z",
-      "first_seen_at": "2026-08-25T11:29:25.513311Z",
-      "last_seen_at": "2026-08-25T11:29:25.513311Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "title_en": null,
-      "title_zh": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "title_bilingual": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势"
     }
   ],
   "items_ai": [
@@ -1004,7 +958,7 @@
       "url": "https://www.ifanr.com/1676738",
       "published_at": "2026-08-26T09:46:32Z",
       "first_seen_at": "2026-08-26T10:36:59.494731Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -1660,7 +1614,7 @@
       "url": "https://www.ifanr.com/1676537",
       "published_at": "2026-08-25T13:10:31Z",
       "first_seen_at": "2026-08-25T14:19:51.179975Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "model_release",
@@ -1727,7 +1681,7 @@
       "url": "https://www.ifanr.com/1676629",
       "published_at": "2026-08-25T12:01:44Z",
       "first_seen_at": "2026-08-25T13:02:15.549869Z",
-      "last_seen_at": "2026-08-26T10:36:59.494731Z",
+      "last_seen_at": "2026-08-26T11:31:37.881184Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -1784,52 +1738,6 @@
       "title_en": null,
       "title_zh": "小米通报多起 AI 造谣案件进展 多名涉案人员被处理",
       "title_bilingual": "小米通报多起 AI 造谣案件进展 多名涉案人员被处理"
-    },
-    {
-      "id": "614e960f03fd094d46b866c794063556d6ee1a40",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "url": "https://readhub.cn/topic/8vslRC2AsUX",
-      "published_at": "2026-08-25T10:51:41Z",
-      "first_seen_at": "2026-08-25T11:29:25.513311Z",
-      "last_seen_at": "2026-08-25T11:29:25.513311Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "算力"
-      ],
-      "ai_noise": [],
-      "title_original": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "title_en": null,
-      "title_zh": "艾可蓝：签订 11.09 亿元算力资源服务合同",
-      "title_bilingual": "艾可蓝：签订 11.09 亿元算力资源服务合同"
-    },
-    {
-      "id": "8fc9fb3c89aa9ee966d104d5f914ff78e64d3767",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "url": "https://readhub.cn/topic/8vsjz1Im9fg",
-      "published_at": "2026-08-25T10:51:41Z",
-      "first_seen_at": "2026-08-25T11:29:25.513311Z",
-      "last_seen_at": "2026-08-25T11:29:25.513311Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "title_en": null,
-      "title_zh": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势",
-      "title_bilingual": "上海：聚焦集成电路、人工智能等重点产业和关键领域 壮大出口优势"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
