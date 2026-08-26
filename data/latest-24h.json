@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-08-26T14:51:08.633973Z",
+  "generated_at": "2026-08-26T16:19:05.106691Z",
   "window_hours": 24,
-  "total_items": 35,
-  "total_items_ai_raw": 35,
-  "total_items_raw": 278,
-  "total_items_all_mode": 278,
+  "total_items": 34,
+  "total_items_ai_raw": 34,
+  "total_items_raw": 272,
+  "total_items_all_mode": 272,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3094,
+  "archive_total": 3099,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 35,
-      "raw_count": 278
+      "count": 34,
+      "raw_count": 272
     }
   ],
   "items": [
     {
+      "id": "e37bd1f3a2f82cba2571cc559ac445e14d120b69",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "url": "https://readhub.cn/topic/8vuHPTQfyyp",
+      "published_at": "2026-08-26T15:10:24Z",
+      "first_seen_at": "2026-08-26T16:19:05.106691Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "大模型"
+      ],
+      "ai_noise": [
+        "京东"
+      ],
+      "title_original": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "title_en": null,
+      "title_zh": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "title_bilingual": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升"
+    },
+    {
       "id": "5d16506c8ad1f52c8d79fdaeed07e8eca5205e9c",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -96,7 +121,7 @@
       "url": "https://www.ifanr.com/1676824",
       "published_at": "2026-08-26T12:07:59Z",
       "first_seen_at": "2026-08-26T12:55:45.974806Z",
-      "last_seen_at": "2026-08-26T14:51:08.633973Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -188,7 +213,7 @@
       "url": "https://www.ifanr.com/1676738",
       "published_at": "2026-08-26T09:46:32Z",
       "first_seen_at": "2026-08-26T10:36:59.494731Z",
-      "last_seen_at": "2026-08-26T14:51:08.633973Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -767,54 +792,35 @@
       "title_en": null,
       "title_zh": "Anthropic 将告知投资者，公司预计潜在市场总额将超过 30 万亿美元",
       "title_bilingual": "Anthropic 将告知投资者，公司预计潜在市场总额将超过 30 万亿美元"
-    },
-    {
-      "id": "0caaf3d571fb2522f2eafdfe017552b94255b580",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "url": "https://readhub.cn/topic/8vt0QxZh5my",
-      "published_at": "2026-08-25T16:15:34Z",
-      "first_seen_at": "2026-08-25T17:05:36.674734Z",
-      "last_seen_at": "2026-08-25T22:57:56.129417Z",
-      "ai_is_related": true,
-      "ai_score": 0.67,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "title_en": null,
-      "title_zh": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "title_bilingual": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案"
-    },
-    {
-      "id": "696bb8254fcdde4f452cd867c8d33453baf24ee4",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "url": "https://readhub.cn/topic/8vt6sE2tcvq",
-      "published_at": "2026-08-25T16:05:39Z",
-      "first_seen_at": "2026-08-25T16:08:29.625755Z",
-      "last_seen_at": "2026-08-25T22:57:56.129417Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "title_en": null,
-      "title_zh": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "title_bilingual": "大摩：人工智能相关表外承诺规模突破 3 万亿美元"
     }
   ],
   "items_ai": [
     {
+      "id": "e37bd1f3a2f82cba2571cc559ac445e14d120b69",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "url": "https://readhub.cn/topic/8vuHPTQfyyp",
+      "published_at": "2026-08-26T15:10:24Z",
+      "first_seen_at": "2026-08-26T16:19:05.106691Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
+      "ai_is_related": true,
+      "ai_score": 0.67,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "大模型"
+      ],
+      "ai_noise": [
+        "京东"
+      ],
+      "title_original": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "title_en": null,
+      "title_zh": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升",
+      "title_bilingual": "京东「超脑」大模型 3.0 亮相，物流全流程 AI 协同优化效率飙升"
+    },
+    {
       "id": "5d16506c8ad1f52c8d79fdaeed07e8eca5205e9c",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -891,7 +897,7 @@
       "url": "https://www.ifanr.com/1676824",
       "published_at": "2026-08-26T12:07:59Z",
       "first_seen_at": "2026-08-26T12:55:45.974806Z",
-      "last_seen_at": "2026-08-26T14:51:08.633973Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "ai_product_update",
@@ -983,7 +989,7 @@
       "url": "https://www.ifanr.com/1676738",
       "published_at": "2026-08-26T09:46:32Z",
       "first_seen_at": "2026-08-26T10:36:59.494731Z",
-      "last_seen_at": "2026-08-26T14:51:08.633973Z",
+      "last_seen_at": "2026-08-26T16:19:05.106691Z",
       "ai_is_related": true,
       "ai_score": 0.78,
       "ai_label": "model_release",
@@ -1562,50 +1568,6 @@
       "title_en": null,
       "title_zh": "Anthropic 将告知投资者，公司预计潜在市场总额将超过 30 万亿美元",
       "title_bilingual": "Anthropic 将告知投资者，公司预计潜在市场总额将超过 30 万亿美元"
-    },
-    {
-      "id": "0caaf3d571fb2522f2eafdfe017552b94255b580",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "url": "https://readhub.cn/topic/8vt0QxZh5my",
-      "published_at": "2026-08-25T16:15:34Z",
-      "first_seen_at": "2026-08-25T17:05:36.674734Z",
-      "last_seen_at": "2026-08-25T22:57:56.129417Z",
-      "ai_is_related": true,
-      "ai_score": 0.67,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "title_original": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "title_en": null,
-      "title_zh": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案",
-      "title_bilingual": "超微电脑涨超 9%，联手思科扩容「英伟达 AI 工厂」解决方案"
-    },
-    {
-      "id": "696bb8254fcdde4f452cd867c8d33453baf24ee4",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "url": "https://readhub.cn/topic/8vt6sE2tcvq",
-      "published_at": "2026-08-25T16:05:39Z",
-      "first_seen_at": "2026-08-25T16:08:29.625755Z",
-      "last_seen_at": "2026-08-25T22:57:56.129417Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "title_en": null,
-      "title_zh": "大摩：人工智能相关表外承诺规模突破 3 万亿美元",
-      "title_bilingual": "大摩：人工智能相关表外承诺规模突破 3 万亿美元"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
