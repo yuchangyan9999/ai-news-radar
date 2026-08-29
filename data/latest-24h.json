@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-29T01:31:41.535977Z",
+  "generated_at": "2026-08-29T08:44:18.671188Z",
   "window_hours": 24,
   "total_items": 11,
   "total_items_ai_raw": 11,
-  "total_items_raw": 64,
-  "total_items_all_mode": 64,
+  "total_items_raw": 62,
+  "total_items_all_mode": 62,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2962,
+  "archive_total": 2971,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
@@ -15,11 +15,57 @@
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "count": 11,
-      "raw_count": 64
+      "raw_count": 62
     }
   ],
   "items": [
     {
+      "id": "374bca29d4de35cba1dce72325334d7dc79f2744",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "国家数据局：算力网与「五张网」形成深度耦合",
+      "url": "https://readhub.cn/topic/8vz1mgCncp5",
+      "published_at": "2026-08-29T05:30:50Z",
+      "first_seen_at": "2026-08-29T08:44:18.671188Z",
+      "last_seen_at": "2026-08-29T08:44:18.671188Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "国家数据局：算力网与「五张网」形成深度耦合",
+      "title_en": null,
+      "title_zh": "国家数据局：算力网与「五张网」形成深度耦合",
+      "title_bilingual": "国家数据局：算力网与「五张网」形成深度耦合"
+    },
+    {
+      "id": "9a174d242d597757cad50682532679b23e8f3dd3",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "url": "https://readhub.cn/topic/8vy5BPcN5Nm",
+      "published_at": "2026-08-29T04:50:44Z",
+      "first_seen_at": "2026-08-29T08:44:18.671188Z",
+      "last_seen_at": "2026-08-29T08:44:18.671188Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_broad_ai_plus_tech_signal",
+      "ai_signals": [
+        "开源"
+      ],
+      "ai_noise": [],
+      "title_original": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "title_en": null,
+      "title_zh": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "title_bilingual": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查"
+    },
+    {
       "id": "2e1d79011a33a8a6e02565844f09f26caa9ed780",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -219,59 +265,56 @@
       "title_en": null,
       "title_zh": "a16z 募集 11 亿美元新基金，聚焦 AI 运行全套基础设施建设",
       "title_bilingual": "a16z 募集 11 亿美元新基金，聚焦 AI 运行全套基础设施建设"
-    },
-    {
-      "id": "1b466cdaef0c07edf1823afe5ce2fb5d8ab370ee",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "url": "https://readhub.cn/topic/8vxIwphqiBx",
-      "published_at": "2026-08-28T04:50:47Z",
-      "first_seen_at": "2026-08-28T05:16:14.753714Z",
-      "last_seen_at": "2026-08-28T05:16:14.753714Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gpu"
-      ],
-      "ai_noise": [],
-      "title_original": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "title_en": null,
-      "title_zh": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "title_bilingual": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU"
-    },
-    {
-      "id": "4aa403228f9b5cbb65c5be156f665d9c3c47b64a",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "url": "https://readhub.cn/topic/8vvcyP7ENH8",
-      "published_at": "2026-08-28T04:30:49Z",
-      "first_seen_at": "2026-08-28T05:16:14.753714Z",
-      "last_seen_at": "2026-08-28T05:16:14.753714Z",
-      "ai_is_related": true,
-      "ai_score": 0.8,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "具身智能",
-        "具身",
-        "技术",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "title_original": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "title_en": null,
-      "title_zh": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "title_bilingual": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒"
     }
   ],
   "items_ai": [
     {
+      "id": "374bca29d4de35cba1dce72325334d7dc79f2744",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "国家数据局：算力网与「五张网」形成深度耦合",
+      "url": "https://readhub.cn/topic/8vz1mgCncp5",
+      "published_at": "2026-08-29T05:30:50Z",
+      "first_seen_at": "2026-08-29T08:44:18.671188Z",
+      "last_seen_at": "2026-08-29T08:44:18.671188Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "算力"
+      ],
+      "ai_noise": [],
+      "title_original": "国家数据局：算力网与「五张网」形成深度耦合",
+      "title_en": null,
+      "title_zh": "国家数据局：算力网与「五张网」形成深度耦合",
+      "title_bilingual": "国家数据局：算力网与「五张网」形成深度耦合"
+    },
+    {
+      "id": "9a174d242d597757cad50682532679b23e8f3dd3",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "url": "https://readhub.cn/topic/8vy5BPcN5Nm",
+      "published_at": "2026-08-29T04:50:44Z",
+      "first_seen_at": "2026-08-29T08:44:18.671188Z",
+      "last_seen_at": "2026-08-29T08:44:18.671188Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_broad_ai_plus_tech_signal",
+      "ai_signals": [
+        "开源"
+      ],
+      "ai_noise": [],
+      "title_original": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "title_en": null,
+      "title_zh": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查",
+      "title_bilingual": "智谱宣布 GLM-5.3 模型正式开源 支持免费部署和商用 但大型企业必须先提交审查"
+    },
+    {
       "id": "2e1d79011a33a8a6e02565844f09f26caa9ed780",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -471,55 +514,6 @@
       "title_en": null,
       "title_zh": "a16z 募集 11 亿美元新基金，聚焦 AI 运行全套基础设施建设",
       "title_bilingual": "a16z 募集 11 亿美元新基金，聚焦 AI 运行全套基础设施建设"
-    },
-    {
-      "id": "1b466cdaef0c07edf1823afe5ce2fb5d8ab370ee",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "url": "https://readhub.cn/topic/8vxIwphqiBx",
-      "published_at": "2026-08-28T04:50:47Z",
-      "first_seen_at": "2026-08-28T05:16:14.753714Z",
-      "last_seen_at": "2026-08-28T05:16:14.753714Z",
-      "ai_is_related": true,
-      "ai_score": 0.7,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gpu"
-      ],
-      "ai_noise": [],
-      "title_original": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "title_en": null,
-      "title_zh": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU",
-      "title_bilingual": "机构：预计 2028 年 AI ASIC 出货量将超过 GPU"
-    },
-    {
-      "id": "4aa403228f9b5cbb65c5be156f665d9c3c47b64a",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "url": "https://readhub.cn/topic/8vvcyP7ENH8",
-      "published_at": "2026-08-28T04:30:49Z",
-      "first_seen_at": "2026-08-28T05:16:14.753714Z",
-      "last_seen_at": "2026-08-28T05:16:14.753714Z",
-      "ai_is_related": true,
-      "ai_score": 0.8,
-      "ai_label": "infra_compute",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "具身智能",
-        "具身",
-        "技术",
-        "芯片"
-      ],
-      "ai_noise": [],
-      "title_original": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "title_en": null,
-      "title_zh": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒",
-      "title_bilingual": "理想汽车李想：电池和芯片是具身智能行业最重要的技术壁垒"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
