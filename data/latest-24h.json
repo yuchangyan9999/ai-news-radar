@@ -1,24 +1,95 @@
 {
-  "generated_at": "2026-08-29T08:44:18.671188Z",
+  "generated_at": "2026-08-29T14:13:18.619700Z",
   "window_hours": 24,
-  "total_items": 11,
-  "total_items_ai_raw": 11,
-  "total_items_raw": 62,
-  "total_items_all_mode": 62,
+  "total_items": 14,
+  "total_items_ai_raw": 14,
+  "total_items_raw": 80,
+  "total_items_all_mode": 80,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2971,
+  "archive_total": 2977,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 11,
-      "raw_count": 62
+      "count": 14,
+      "raw_count": 80
     }
   ],
   "items": [
+    {
+      "id": "019105856d7fd64875a594ba907f23ad54513150",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "url": "https://readhub.cn/topic/8vxMBFmJ9GE",
+      "published_at": "2026-08-29T14:10:29Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "hugging face"
+      ],
+      "ai_noise": [],
+      "title_original": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "title_en": null,
+      "title_zh": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "title_bilingual": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标"
+    },
+    {
+      "id": "e36768e4656c3edaf8ce5bdd21facd0e4fdc5723",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "url": "https://readhub.cn/topic/8vyGc9MfEW2",
+      "published_at": "2026-08-29T12:40:39Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.79,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "codex",
+        "gpt",
+        "openai"
+      ],
+      "ai_noise": [],
+      "title_original": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "title_en": null,
+      "title_zh": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "title_bilingual": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号"
+    },
+    {
+      "id": "7687bcfcfaf7f04fcbdde0ee0608500da6464562",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "url": "https://readhub.cn/topic/8vyjDBVgQ9n",
+      "published_at": "2026-08-29T11:40:41Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "智能体"
+      ],
+      "ai_noise": [],
+      "title_original": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "title_en": null,
+      "title_zh": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "title_bilingual": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程"
+    },
     {
       "id": "374bca29d4de35cba1dce72325334d7dc79f2744",
       "site_id": "opmlrss",
@@ -268,6 +339,77 @@
     }
   ],
   "items_ai": [
+    {
+      "id": "019105856d7fd64875a594ba907f23ad54513150",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "url": "https://readhub.cn/topic/8vxMBFmJ9GE",
+      "published_at": "2026-08-29T14:10:29Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "hugging face"
+      ],
+      "ai_noise": [],
+      "title_original": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "title_en": null,
+      "title_zh": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标",
+      "title_bilingual": "英伟达「看中」Hugging Face，开放权重 AI 模型成硅谷热门收购目标"
+    },
+    {
+      "id": "e36768e4656c3edaf8ce5bdd21facd0e4fdc5723",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "url": "https://readhub.cn/topic/8vyGc9MfEW2",
+      "published_at": "2026-08-29T12:40:39Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.79,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "codex",
+        "gpt",
+        "openai"
+      ],
+      "ai_noise": [],
+      "title_original": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "title_en": null,
+      "title_zh": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
+      "title_bilingual": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号"
+    },
+    {
+      "id": "7687bcfcfaf7f04fcbdde0ee0608500da6464562",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "url": "https://readhub.cn/topic/8vyjDBVgQ9n",
+      "published_at": "2026-08-29T11:40:41Z",
+      "first_seen_at": "2026-08-29T14:13:18.619700Z",
+      "last_seen_at": "2026-08-29T14:13:18.619700Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "智能体"
+      ],
+      "ai_noise": [],
+      "title_original": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "title_en": null,
+      "title_zh": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程",
+      "title_bilingual": "Meta 发布 XR Operator 工具：AI 智能体助力 VR 应用调试，简化开发者流程"
+    },
     {
       "id": "374bca29d4de35cba1dce72325334d7dc79f2744",
       "site_id": "opmlrss",
