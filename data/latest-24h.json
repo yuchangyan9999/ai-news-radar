@@ -1,24 +1,47 @@
 {
-  "generated_at": "2026-08-30T17:41:48.836898Z",
+  "generated_at": "2026-08-30T20:43:56.615823Z",
   "window_hours": 24,
-  "total_items": 9,
-  "total_items_ai_raw": 9,
-  "total_items_raw": 57,
-  "total_items_all_mode": 57,
+  "total_items": 10,
+  "total_items_ai_raw": 10,
+  "total_items_raw": 59,
+  "total_items_all_mode": 59,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 3005,
+  "archive_total": 3007,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 9,
-      "raw_count": 57
+      "count": 10,
+      "raw_count": 59
     }
   ],
   "items": [
+    {
+      "id": "ecdfc57cb93db2b361849abeb5977362becc519d",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "url": "https://readhub.cn/topic/8w1HrlcFMAZ",
+      "published_at": "2026-08-30T19:10:24Z",
+      "first_seen_at": "2026-08-30T20:43:56.615823Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "大模型"
+      ],
+      "ai_noise": [],
+      "title_original": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "title_en": null,
+      "title_zh": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "title_bilingual": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出"
+    },
     {
       "id": "a7bda483a28fb1a45828c180e6ffb6d1c114a165",
       "site_id": "opmlrss",
@@ -28,7 +51,7 @@
       "url": "https://readhub.cn/topic/8w0ZXKr8tRV",
       "published_at": "2026-08-30T15:13:00Z",
       "first_seen_at": "2026-08-30T17:41:48.836898Z",
-      "last_seen_at": "2026-08-30T17:41:48.836898Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -51,7 +74,7 @@
       "url": "https://readhub.cn/topic/8w0rPOcchFE",
       "published_at": "2026-08-30T14:10:26Z",
       "first_seen_at": "2026-08-30T17:41:48.836898Z",
-      "last_seen_at": "2026-08-30T17:41:48.836898Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -219,6 +242,29 @@
   ],
   "items_ai": [
     {
+      "id": "ecdfc57cb93db2b361849abeb5977362becc519d",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "url": "https://readhub.cn/topic/8w1HrlcFMAZ",
+      "published_at": "2026-08-30T19:10:24Z",
+      "first_seen_at": "2026-08-30T20:43:56.615823Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "大模型"
+      ],
+      "ai_noise": [],
+      "title_original": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "title_en": null,
+      "title_zh": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "title_bilingual": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出"
+    },
+    {
       "id": "a7bda483a28fb1a45828c180e6ffb6d1c114a165",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -227,7 +273,7 @@
       "url": "https://readhub.cn/topic/8w0ZXKr8tRV",
       "published_at": "2026-08-30T15:13:00Z",
       "first_seen_at": "2026-08-30T17:41:48.836898Z",
-      "last_seen_at": "2026-08-30T17:41:48.836898Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -250,7 +296,7 @@
       "url": "https://readhub.cn/topic/8w0rPOcchFE",
       "published_at": "2026-08-30T14:10:26Z",
       "first_seen_at": "2026-08-30T17:41:48.836898Z",
-      "last_seen_at": "2026-08-30T17:41:48.836898Z",
+      "last_seen_at": "2026-08-30T20:43:56.615823Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
