@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-08-31T21:24:26.087702Z",
+  "generated_at": "2026-09-01T00:44:24.032172Z",
   "window_hours": 24,
-  "total_items": 15,
-  "total_items_ai_raw": 15,
-  "total_items_raw": 92,
-  "total_items_all_mode": 92,
+  "total_items": 16,
+  "total_items_ai_raw": 16,
+  "total_items_raw": 102,
+  "total_items_all_mode": 102,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2936,
+  "archive_total": 2938,
   "site_count": 1,
   "source_count": 2,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 15,
-      "raw_count": 92
+      "count": 16,
+      "raw_count": 102
     }
   ],
   "items": [
+    {
+      "id": "b7d9509ac420b30625d1d24baafbe55212958db1",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "url": "https://readhub.cn/topic/8w3ZKp7M15F",
+      "published_at": "2026-08-31T23:10:34Z",
+      "first_seen_at": "2026-09-01T00:44:24.032172Z",
+      "last_seen_at": "2026-09-01T00:44:24.032172Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic",
+        "claude"
+      ],
+      "ai_noise": [],
+      "title_original": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "title_en": null,
+      "title_zh": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "title_bilingual": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范"
+    },
     {
       "id": "0234d138603a5f8a424ddc14da6e14ce26cce0cf",
       "site_id": "opmlrss",
@@ -118,7 +142,7 @@
       "url": "https://www.ifanr.com/1677378",
       "published_at": "2026-08-31T09:14:50Z",
       "first_seen_at": "2026-08-31T15:56:56.877827Z",
-      "last_seen_at": "2026-08-31T21:24:26.087702Z",
+      "last_seen_at": "2026-09-01T00:44:24.032172Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -359,6 +383,30 @@
   ],
   "items_ai": [
     {
+      "id": "b7d9509ac420b30625d1d24baafbe55212958db1",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "url": "https://readhub.cn/topic/8w3ZKp7M15F",
+      "published_at": "2026-08-31T23:10:34Z",
+      "first_seen_at": "2026-09-01T00:44:24.032172Z",
+      "last_seen_at": "2026-09-01T00:44:24.032172Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic",
+        "claude"
+      ],
+      "ai_noise": [],
+      "title_original": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "title_en": null,
+      "title_zh": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范",
+      "title_bilingual": "Anthropic：为有权使用 Claude Mythos 5 的合作方制定配套操作规范"
+    },
+    {
       "id": "0234d138603a5f8a424ddc14da6e14ce26cce0cf",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -457,7 +505,7 @@
       "url": "https://www.ifanr.com/1677378",
       "published_at": "2026-08-31T09:14:50Z",
       "first_seen_at": "2026-08-31T15:56:56.877827Z",
-      "last_seen_at": "2026-08-31T21:24:26.087702Z",
+      "last_seen_at": "2026-09-01T00:44:24.032172Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
