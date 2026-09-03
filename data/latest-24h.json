@@ -1,25 +1,71 @@
 {
-  "generated_at": "2026-09-03T21:49:48.458529Z",
+  "generated_at": "2026-09-03T23:50:18.148825Z",
   "window_hours": 24,
-  "total_items": 19,
-  "total_items_ai_raw": 19,
-  "total_items_raw": 119,
-  "total_items_all_mode": 119,
+  "total_items": 20,
+  "total_items_ai_raw": 20,
+  "total_items_raw": 124,
+  "total_items_all_mode": 124,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2776,
+  "archive_total": 2766,
   "site_count": 1,
   "source_count": 3,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 19,
-      "raw_count": 119
+      "count": 20,
+      "raw_count": 124
     }
   ],
   "items": [
     {
+      "id": "66248b5fecb75e06a52bbd482be59fc0c291790f",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "url": "https://readhub.cn/topic/8w8XKfic2co",
+      "published_at": "2026-09-03T23:10:36Z",
+      "first_seen_at": "2026-09-03T23:50:18.148825Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "industry_business",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "title_original": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "title_en": null,
+      "title_zh": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "title_bilingual": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资"
+    },
+    {
+      "id": "8cc1e8f223c4ccc167d73e069dba5cd3c69508b7",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "爱范儿",
+      "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "url": "https://www.ifanr.com/1678196",
+      "published_at": "2026-09-03T23:03:17Z",
+      "first_seen_at": "2026-09-03T23:50:18.148825Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "title_original": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "title_en": null,
+      "title_zh": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "title_bilingual": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代"
+    },
+    {
       "id": "6a850e978cca4537ac1b4c3e23897e29cb276ca3",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -28,7 +74,7 @@
       "url": "https://readhub.cn/topic/8w8RGE7YYLy",
       "published_at": "2026-09-03T21:40:37Z",
       "first_seen_at": "2026-09-03T21:49:48.458529Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -414,7 +460,7 @@
       "url": "https://sspai.com/post/114113",
       "published_at": "2026-09-03T00:31:14Z",
       "first_seen_at": "2026-09-03T06:16:12.462602Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -427,33 +473,56 @@
       "title_en": null,
       "title_zh": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
       "title_bilingual": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等"
-    },
-    {
-      "id": "b0a087b9d9c4585910d3f6e6db51dd3fec79c2e2",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "爱范儿",
-      "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "url": "https://www.ifanr.com/1678197",
-      "published_at": "2026-09-02T22:52:37Z",
-      "first_seen_at": "2026-09-02T23:04:47.159427Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "title_original": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "title_en": null,
-      "title_zh": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "title_bilingual": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍"
     }
   ],
   "items_ai": [
     {
+      "id": "66248b5fecb75e06a52bbd482be59fc0c291790f",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "url": "https://readhub.cn/topic/8w8XKfic2co",
+      "published_at": "2026-09-03T23:10:36Z",
+      "first_seen_at": "2026-09-03T23:50:18.148825Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "industry_business",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "title_original": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "title_en": null,
+      "title_zh": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资",
+      "title_bilingual": "Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资"
+    },
+    {
+      "id": "8cc1e8f223c4ccc167d73e069dba5cd3c69508b7",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "爱范儿",
+      "title": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "url": "https://www.ifanr.com/1678196",
+      "published_at": "2026-09-03T23:03:17Z",
+      "first_seen_at": "2026-09-03T23:50:18.148825Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
+      "ai_is_related": true,
+      "ai_score": 0.71,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "gpt"
+      ],
+      "ai_noise": [],
+      "title_original": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "title_en": null,
+      "title_zh": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+      "title_bilingual": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代"
+    },
+    {
       "id": "6a850e978cca4537ac1b4c3e23897e29cb276ca3",
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
@@ -462,7 +531,7 @@
       "url": "https://readhub.cn/topic/8w8RGE7YYLy",
       "published_at": "2026-09-03T21:40:37Z",
       "first_seen_at": "2026-09-03T21:49:48.458529Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -848,7 +917,7 @@
       "url": "https://sspai.com/post/114113",
       "published_at": "2026-09-03T00:31:14Z",
       "first_seen_at": "2026-09-03T06:16:12.462602Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
+      "last_seen_at": "2026-09-03T23:50:18.148825Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -861,29 +930,6 @@
       "title_en": null,
       "title_zh": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
       "title_bilingual": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等"
-    },
-    {
-      "id": "b0a087b9d9c4585910d3f6e6db51dd3fec79c2e2",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "爱范儿",
-      "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "url": "https://www.ifanr.com/1678197",
-      "published_at": "2026-09-02T22:52:37Z",
-      "first_seen_at": "2026-09-02T23:04:47.159427Z",
-      "last_seen_at": "2026-09-03T21:49:48.458529Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "title_original": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "title_en": null,
-      "title_zh": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
-      "title_bilingual": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
