@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-19T17:49:46.165413Z",
+  "generated_at": "2026-09-19T20:13:17.136639Z",
   "window_hours": 24,
-  "total_items": 21,
-  "total_items_ai_raw": 21,
-  "total_items_raw": 85,
-  "total_items_all_mode": 85,
+  "total_items": 20,
+  "total_items_ai_raw": 20,
+  "total_items_raw": 90,
+  "total_items_all_mode": 90,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2203,
+  "archive_total": 2210,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 21,
-      "raw_count": 85
+      "count": 20,
+      "raw_count": 90
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8wWFJK6WGl7",
       "published_at": "2026-09-19T11:45:29Z",
       "first_seen_at": "2026-09-19T14:40:44.204045Z",
-      "last_seen_at": "2026-09-19T17:49:46.165413Z",
+      "last_seen_at": "2026-09-19T20:13:17.136639Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -470,29 +470,6 @@
       "title_en": null,
       "title_zh": "AI 笔记设备初创公司 Plaud AI 计划 2028 年赴美上市",
       "title_bilingual": "AI 笔记设备初创公司 Plaud AI 计划 2028 年赴美上市"
-    },
-    {
-      "id": "72831123c6b2934e8a112c340392766e0757458e",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "url": "https://readhub.cn/topic/8wWqrZpJbpR",
-      "published_at": "2026-09-18T20:01:09Z",
-      "first_seen_at": "2026-09-18T20:35:09.545077Z",
-      "last_seen_at": "2026-09-18T23:06:18.970936Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "title_en": null,
-      "title_zh": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "title_bilingual": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队"
     }
   ],
   "items_ai": [
@@ -505,7 +482,7 @@
       "url": "https://readhub.cn/topic/8wWFJK6WGl7",
       "published_at": "2026-09-19T11:45:29Z",
       "first_seen_at": "2026-09-19T14:40:44.204045Z",
-      "last_seen_at": "2026-09-19T17:49:46.165413Z",
+      "last_seen_at": "2026-09-19T20:13:17.136639Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -947,29 +924,6 @@
       "title_en": null,
       "title_zh": "AI 笔记设备初创公司 Plaud AI 计划 2028 年赴美上市",
       "title_bilingual": "AI 笔记设备初创公司 Plaud AI 计划 2028 年赴美上市"
-    },
-    {
-      "id": "72831123c6b2934e8a112c340392766e0757458e",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "url": "https://readhub.cn/topic/8wWqrZpJbpR",
-      "published_at": "2026-09-18T20:01:09Z",
-      "first_seen_at": "2026-09-18T20:35:09.545077Z",
-      "last_seen_at": "2026-09-18T23:06:18.970936Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "title_en": null,
-      "title_zh": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队",
-      "title_bilingual": "谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
