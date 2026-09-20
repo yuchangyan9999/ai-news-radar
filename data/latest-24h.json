@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-19T22:24:53.776841Z",
+  "generated_at": "2026-09-20T00:16:52.912870Z",
   "window_hours": 24,
-  "total_items": 14,
-  "total_items_ai_raw": 14,
-  "total_items_raw": 80,
-  "total_items_all_mode": 80,
+  "total_items": 12,
+  "total_items_ai_raw": 12,
+  "total_items_raw": 75,
+  "total_items_all_mode": 75,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2210,
+  "archive_total": 2204,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 14,
-      "raw_count": 80
+      "count": 12,
+      "raw_count": 75
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8wWFJK6WGl7",
       "published_at": "2026-09-19T11:45:29Z",
       "first_seen_at": "2026-09-19T14:40:44.204045Z",
-      "last_seen_at": "2026-09-19T22:24:53.776841Z",
+      "last_seen_at": "2026-09-20T00:16:52.912870Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -285,52 +285,6 @@
       "title_en": null,
       "title_zh": "Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控",
       "title_bilingual": "Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控"
-    },
-    {
-      "id": "e58b040b15bd06985755b9f2f20b191e0f1ce77c",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "url": "https://readhub.cn/topic/8wXQtMN33wo",
-      "published_at": "2026-09-18T22:51:03Z",
-      "first_seen_at": "2026-09-18T23:06:18.970936Z",
-      "last_seen_at": "2026-09-19T01:26:32.447204Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "智能体"
-      ],
-      "ai_noise": [],
-      "title_original": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "title_en": null,
-      "title_zh": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "title_bilingual": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线"
-    },
-    {
-      "id": "b9224922fa96f801151ffdfa2932efcec9e8c907",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "url": "https://readhub.cn/topic/8wXPT9GCNWi",
-      "published_at": "2026-09-18T22:40:58Z",
-      "first_seen_at": "2026-09-18T23:06:18.970936Z",
-      "last_seen_at": "2026-09-19T01:26:32.447204Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "title_original": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "title_en": null,
-      "title_zh": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "title_bilingual": "谷歌 Gemini 在红队测试中首次自主发起网络攻击"
     }
   ],
   "items_ai": [
@@ -343,7 +297,7 @@
       "url": "https://readhub.cn/topic/8wWFJK6WGl7",
       "published_at": "2026-09-19T11:45:29Z",
       "first_seen_at": "2026-09-19T14:40:44.204045Z",
-      "last_seen_at": "2026-09-19T22:24:53.776841Z",
+      "last_seen_at": "2026-09-20T00:16:52.912870Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -600,52 +554,6 @@
       "title_en": null,
       "title_zh": "Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控",
       "title_bilingual": "Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控"
-    },
-    {
-      "id": "e58b040b15bd06985755b9f2f20b191e0f1ce77c",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "url": "https://readhub.cn/topic/8wXQtMN33wo",
-      "published_at": "2026-09-18T22:51:03Z",
-      "first_seen_at": "2026-09-18T23:06:18.970936Z",
-      "last_seen_at": "2026-09-19T01:26:32.447204Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "智能体"
-      ],
-      "ai_noise": [],
-      "title_original": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "title_en": null,
-      "title_zh": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线",
-      "title_bilingual": "小鹏集团 × 火山引擎：5000 个智能体落地，让 Agent 驶进造车一线"
-    },
-    {
-      "id": "b9224922fa96f801151ffdfa2932efcec9e8c907",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "url": "https://readhub.cn/topic/8wXPT9GCNWi",
-      "published_at": "2026-09-18T22:40:58Z",
-      "first_seen_at": "2026-09-18T23:06:18.970936Z",
-      "last_seen_at": "2026-09-19T01:26:32.447204Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "gemini"
-      ],
-      "ai_noise": [],
-      "title_original": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "title_en": null,
-      "title_zh": "谷歌 Gemini 在红队测试中首次自主发起网络攻击",
-      "title_bilingual": "谷歌 Gemini 在红队测试中首次自主发起网络攻击"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
