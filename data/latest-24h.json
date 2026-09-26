@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-26T07:13:05.809579Z",
+  "generated_at": "2026-09-26T12:21:18.412554Z",
   "window_hours": 24,
-  "total_items": 16,
-  "total_items_ai_raw": 16,
-  "total_items_raw": 53,
-  "total_items_all_mode": 53,
+  "total_items": 15,
+  "total_items_ai_raw": 15,
+  "total_items_raw": 51,
+  "total_items_all_mode": 51,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2110,
+  "archive_total": 2093,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 16,
-      "raw_count": 53
+      "count": 15,
+      "raw_count": 51
     }
   ],
   "items": [
@@ -28,7 +28,7 @@
       "url": "https://readhub.cn/topic/8wjWW7Jr8ZP",
       "published_at": "2026-09-26T06:10:36Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -49,7 +49,7 @@
       "url": "https://readhub.cn/topic/8wjXEGbk0Qz",
       "published_at": "2026-09-26T05:50:34Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -70,7 +70,7 @@
       "url": "https://readhub.cn/topic/8wjJg0v6BNm",
       "published_at": "2026-09-26T03:10:35Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -93,7 +93,7 @@
       "url": "https://readhub.cn/topic/8wgW5zaUXAJ",
       "published_at": "2026-09-25T23:55:09Z",
       "first_seen_at": "2026-09-26T01:50:08.058386Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -351,29 +351,6 @@
       "title_en": null,
       "title_zh": "高盛预计亚马逊等五巨头今年 AI 基础设施支出将达 8000 亿美元",
       "title_bilingual": "高盛预计亚马逊等五巨头今年 AI 基础设施支出将达 8000 亿美元"
-    },
-    {
-      "id": "e217eeb79d9f0b8a33bbcca5a2555b9bfea6c242",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "url": "https://readhub.cn/topic/8wi1ygYzNPb",
-      "published_at": "2026-09-25T08:10:43Z",
-      "first_seen_at": "2026-09-25T11:35:11.426259Z",
-      "last_seen_at": "2026-09-25T11:35:11.426259Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "title_en": null,
-      "title_zh": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "title_bilingual": "日本金融厅加强对人工智能数据中心融资的审查力度"
     }
   ],
   "items_ai": [
@@ -386,7 +363,7 @@
       "url": "https://readhub.cn/topic/8wjWW7Jr8ZP",
       "published_at": "2026-09-26T06:10:36Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -407,7 +384,7 @@
       "url": "https://readhub.cn/topic/8wjXEGbk0Qz",
       "published_at": "2026-09-26T05:50:34Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -428,7 +405,7 @@
       "url": "https://readhub.cn/topic/8wjJg0v6BNm",
       "published_at": "2026-09-26T03:10:35Z",
       "first_seen_at": "2026-09-26T07:13:05.809579Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -451,7 +428,7 @@
       "url": "https://readhub.cn/topic/8wgW5zaUXAJ",
       "published_at": "2026-09-25T23:55:09Z",
       "first_seen_at": "2026-09-26T01:50:08.058386Z",
-      "last_seen_at": "2026-09-26T07:13:05.809579Z",
+      "last_seen_at": "2026-09-26T12:21:18.412554Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -709,29 +686,6 @@
       "title_en": null,
       "title_zh": "高盛预计亚马逊等五巨头今年 AI 基础设施支出将达 8000 亿美元",
       "title_bilingual": "高盛预计亚马逊等五巨头今年 AI 基础设施支出将达 8000 亿美元"
-    },
-    {
-      "id": "e217eeb79d9f0b8a33bbcca5a2555b9bfea6c242",
-      "site_id": "opmlrss",
-      "site_name": "OPML RSS",
-      "source": "ReadHub",
-      "title": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "url": "https://readhub.cn/topic/8wi1ygYzNPb",
-      "published_at": "2026-09-25T08:10:43Z",
-      "first_seen_at": "2026-09-25T11:35:11.426259Z",
-      "last_seen_at": "2026-09-25T11:35:11.426259Z",
-      "ai_is_related": true,
-      "ai_score": 0.71,
-      "ai_label": "industry_business",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "人工智能"
-      ],
-      "ai_noise": [],
-      "title_original": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "title_en": null,
-      "title_zh": "日本金融厅加强对人工智能数据中心融资的审查力度",
-      "title_bilingual": "日本金融厅加强对人工智能数据中心融资的审查力度"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json"
