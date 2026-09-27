@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-09-27T12:20:17.481504Z",
+  "generated_at": "2026-09-27T17:10:58.964683Z",
   "window_hours": 24,
-  "total_items": 13,
-  "total_items_ai_raw": 13,
-  "total_items_raw": 34,
-  "total_items_all_mode": 34,
+  "total_items": 14,
+  "total_items_ai_raw": 14,
+  "total_items_raw": 40,
+  "total_items_all_mode": 40,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 2047,
+  "archive_total": 2043,
   "site_count": 1,
   "source_count": 1,
   "site_stats": [
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
-      "count": 13,
-      "raw_count": 34
+      "count": 14,
+      "raw_count": 40
     }
   ],
   "items": [
+    {
+      "id": "396e5ad3093d0299340b8c7f05aa3f620b90e905",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "url": "https://readhub.cn/topic/8wlUiiYHATq",
+      "published_at": "2026-09-27T16:50:44Z",
+      "first_seen_at": "2026-09-27T17:10:58.964683Z",
+      "last_seen_at": "2026-09-27T17:10:58.964683Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "claude",
+        "codex"
+      ],
+      "ai_noise": [],
+      "title_original": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "title_en": null,
+      "title_zh": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "title_bilingual": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化"
+    },
     {
       "id": "922d33b165990fcbfda8118dd1dd38f3009bc952",
       "site_id": "opmlrss",
@@ -318,6 +342,30 @@
     }
   ],
   "items_ai": [
+    {
+      "id": "396e5ad3093d0299340b8c7f05aa3f620b90e905",
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "source": "ReadHub",
+      "title": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "url": "https://readhub.cn/topic/8wlUiiYHATq",
+      "published_at": "2026-09-27T16:50:44Z",
+      "first_seen_at": "2026-09-27T17:10:58.964683Z",
+      "last_seen_at": "2026-09-27T17:10:58.964683Z",
+      "ai_is_related": true,
+      "ai_score": 0.75,
+      "ai_label": "model_release",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "claude",
+        "codex"
+      ],
+      "ai_noise": [],
+      "title_original": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "title_en": null,
+      "title_zh": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化",
+      "title_bilingual": "Claude Code、Codex 组队干活，Raven 新版本既做总调度，也让 Harness 持续进化"
+    },
     {
       "id": "922d33b165990fcbfda8118dd1dd38f3009bc952",
       "site_id": "opmlrss",
